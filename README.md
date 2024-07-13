@@ -1,5 +1,5 @@
 
-# Hi there 👋
+## Hi there 👋
 
 Welcome to **okeomasilachi/okeomasilachi**, a ✨ _special_ ✨ repository showcasing my work, interests, and expertise. Here's a detailed look into my professional profile:
 
@@ -19,11 +19,11 @@ I am a passionate and dedicated software developer/engineer from Nigeria. As a l
 - **Styling**: Tailwind CSS, Sass
 - **Tools and Platforms**: Git, GitHub, Docker, CI/CD pipelines
 - **Database Management**: MongoDB, PostgreSQL
-<--
+
 ## Language Proficiency
 
 ![Language Proficiency](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','TypeScript','HTML','CSS','Next.js','React.js','Tailwind CSS','Sass','Docker','MongoDB','PostgreSQL'],datasets:[{data:[100,95,100,95,90,85,85,80,80,80,75]}]}})
--->
+
 ## Learning and Development
 
 I am committed to continuous learning and professional development. Currently, I am focused on:
@@ -59,3 +59,66 @@ I am committed to continuous learning and professional development. Currently, I
   - [MyPortfolio](https://github.com/okeomasilachi/MyPortfolio)
 
 Thank you for visiting my profile! Feel free to explore my repositories, open issues, or pull requests. Let's build something amazing together!
+
+---
+
+### Setting Up GitHub Actions
+
+To automatically update your README with data from the GitHub API, you can set up a GitHub Actions workflow. Here’s how you can do it:
+
+1. **Create a GitHub Actions Workflow:**
+
+   In your repository, create a directory named `.github/workflows`. Inside this directory, create a file named `update_readme.yml`.
+
+   ```yaml
+   name: Update README
+
+   on:
+     schedule:
+       - cron: '0 0 * * *' # Runs every day at midnight
+     push:
+       branches:
+         - main
+
+   jobs:
+     update-readme:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Checkout Repository
+           uses: actions/checkout@v2
+
+         - name: Fetch GitHub Stats
+           uses: actions/github-script@v3
+           id: fetch_stats
+           with:
+             github-token: ${{ secrets.GITHUB_TOKEN }}
+             script: |
+               const response = await github.request('GET /users/okeomasilachi');
+               return response.data;
+
+         - name: Update README
+           uses: actions/github-script@v3
+           with:
+             github-token: ${{ secrets.GITHUB_TOKEN }}
+             script: |
+               const fs = require('fs');
+               const readmePath = 'README.md';
+               let readme = fs.readFileSync(readmePath, 'utf8');
+               const newData = JSON.stringify(${fetch_stats.outputs.result}, null, 2);
+               readme = readme.replace(/<!-- GITHUB_STATS -->(.*?)<!-- END_GITHUB_STATS -->/s, `<!-- GITHUB_STATS -->\n${newData}\n<!-- END_GITHUB_STATS -->`);
+               fs.writeFileSync(readmePath, readme);
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ```
+
+2. **Add the Placeholder in README:**
+
+   Modify your `README.md` to include a placeholder where the data will be inserted:
+
+   ```markdown
+   ## GitHub Stats
+
+   <!-- GITHUB_STATS -->
+   <!-- END_GITHUB_STATS -->
+
+   ```
