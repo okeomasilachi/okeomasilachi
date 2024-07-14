@@ -22,7 +22,7 @@ I am a passionate and dedicated software developer/engineer from Nigeria. As a l
 
 ## Language Proficiency
 
-![Language Proficiency](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','TypeScript','HTML','CSS','Next.js','React.js','Tailwind CSS','Sass','Docker','MongoDB','PostgreSQL'],datasets:[{data:[100,95,100,95,90,85,85,80,80,80,75]}]}})
+![Language Proficiency](https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','TypeScript','HTML','CSS','Next.js','React.js','Tailwind','Sass','Docker','MongoDB','PostgreSQL'],datasets:[{data:[100,95,100,95,90,85,85,80,80,80,75]}]}})
 
 ## Learning and Development
 
