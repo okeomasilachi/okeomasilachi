@@ -1,53 +1,35 @@
-# Hi there, I'm Okeomasilachi 👋
+<h1 align="center">Hi 👋, I'm Okeomasilachi Onyedibia</h1>
+<h3 align="center">Engineering Impactful Solutions for a Digital World, Engineering Impactful Solutions for a Digital World</h3>
 
-<p style="text-align: center; font-size: 20px; color: #333;">Welcome to my GitHub profile! I'm a passionate software developer.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=okeomasilachi&label=Profile%20views&color=0e75b6&style=flat" alt="okeomasilachi" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okeomasilachi" alt="okeomasilachi" /></a> </p>
 
-<p style="border: 2px solid #000; padding: 16px; border-radius: 8px;">
-  <span style="color: #ef4444; font-weight: bold;">Hello!</span> I am a software developer with experience in building web applications. I love to learn and share my knowledge with others.
-  <ul style="list-style-type: disc; padding-left: 20px; color: #333;">
-    <li style="color: #3b82f6;">Experienced in JavaScript, TypeScript, Python and C</li>
-    <li style="color: #10b981;">Passionate about open-source and community work</li>
-    <li style="color: #f59e0b;">Always eager to learn new technologies</li>
-  </ul>
+<p align="left"> <a href="https://twitter.com/okeomasilachi1" target="blank"><img src="https://img.shields.io/twitter/follow/okeomasilachi1?logo=twitter&style=for-the-badge" alt="okeomasilachi1" /></a> </p>
+
+- 🔭 I’m currently working on [DataCapture](https://github.com/okeomasilachi/datacapture_v2)
+
+- 🌱 I’m currently learning **Next-js**
+
+- 👨‍💻 All of my projects are available at [https://okeomasilachionyedibia.vercel.app/](https://okeomasilachionyedibia.vercel.app/)
+
+- 💬 Ask me about **Python, C, Typescript, JavaScript, Computer Science**
+
+- 📫 How to reach me **okeomasilachi@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/okeomasilachi](https://www.linkedin.com/in/okeomasilachi)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/okeomasilachi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okeomasilachi1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/okeomasilachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okeomasilachi" height="30" width="40" /></a>
 </p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; padding: 16px;">
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">JavaScript</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">TypeScript</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Python</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">C</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Express</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Flask</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Next.js</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">React</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Html</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Css</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Bootstrap</span>
-  <span style="background-color: #f3f4f6; padding: 10px 20px; margin: 5px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">Tailwind CSS</span>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okeomasilachi&show_icons=true&locale=en&layout=compact" alt="okeomasilachi" /></p>
 
-## Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okeomasilachi&show_icons=true&locale=en" alt="okeomasilachi" /></p>
 
-<p style="border: 2px solid #000; padding: 16px; border-radius: 8px;">
-  Here are some of my notable projects:
-  <ul style="list-style-type: disc; padding-left: 20px; color: #333;">
-    <li style="color: #3b82f6;"><a href="https://github.com/okeomasilachi/alx-files_manager" style="color: #3b82f6; text-decoration: none;">Alx Files Manager</a> - This project is part of the back-end trimester curriculum, focusing on authentication, NodeJS, MongoDB, Redis, pagination, and background processing</li>
-    <li style="color: #10b981;"><a href="https://github.com/okeomasilachi/simple_shell" style="color: #10b981; text-decoration: none;">Simple Shell</a> - Project focused on building the bash shell using the C programming language</li>
-  </ul>
-</p>
-
-## Contact Me
-
-<p style="text-align: center; font-size: 20px; color: #333;">
-  Feel free to reach out to me on:
-</p>
-
-<p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/okeomasilachi" style="color: #0a66c2; text-decoration: none; margin-right: 10px;">LinkedIn</a>
-  <a href="https://twitter.com/okeomasilachi1" style="color: #1da1f2; text-decoration: none; margin-right: 10px;">Twitter</a>
-  <a href="mailto:okeomasilachi@gmail.com" style="color: #d14836; text-decoration: none;">Email</a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okeomasilachi&" alt="okeomasilachi" /></p>
