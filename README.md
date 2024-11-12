@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okeomasilachi Onyedibia</h1>
 <h3 align="center">Engineering Impactful Solutions for a Digital World, Engineering Impactful Solutions for a Digital World</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okeomasilachi" alt="okeomasilachi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/okeomasilachi1" target="blank"><img src="https://img.shields.io/twitter/follow/okeomasilachi1?logo=twitter&style=for-the-badge" alt="okeomasilachi1" /></a> </p>
 
 - 🔭 I’m currently working on [DataCapture](https://github.com/okeomasilachi/datacapture_v2)
