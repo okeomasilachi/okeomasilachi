@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next-js**
 
-- 👨‍💻 All of my projects are available at [https://okeomasilachionyedibia.vercel.app/](https://www.okeomasilachionyedibia.me/)
+- 👨‍💻 All of my projects are available at [https://okeomasilachionyedibia.me/](https://www.okeomasilachionyedibia.me/)
 
 - 💬 Ask me about **Python, C, Typescript, JavaScript, Computer Science**
 
