@@ -2,10 +2,6 @@
 <h3 align="center">Engineering Impactful Solutions for a Digital World</h3>
 <p align="left"> <a href="https://x.com/okeomasilachi1" target="blank"><img src="https://img.shields.io/twitter/follow/okeomasilachi1?logo=twitter&style=for-the-badge" alt="okeomasilachi1" /></a> </p>
 
-- 🔭 I’m currently working on [DataCapture](https://github.com/okeomasilachi/datacapture_v2)
-
-- 🌱 I’m currently learning **Next-js**
-
 - 👨‍💻 All of my projects are available at [https://okeomasilachionyedibia.me/](https://www.okeomasilachionyedibia.me/)
 
 - 💬 Ask me about **Python, C, Typescript, JavaScript, Computer Science**
