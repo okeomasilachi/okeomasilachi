@@ -56,7 +56,7 @@ int main() {
 - 🚀 **DevOps & Deployment** - Implementing CI/CD pipelines and cloud infrastructure
 
 ### 💼 Professional Experience
-- **5+ years** in software development across multiple industries
+- **3+ years** in software development across multiple industries
 - **Full-stack expertise** from database design to user interface implementation
 - **Team collaboration** experience with Agile/Scrum methodologies
 - **Code review** and quality assurance practices
